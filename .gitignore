@@ -1,0 +1,15 @@
+data/Thumos14/UCF101/
+videos_to_caption/
+data/Thumos14/features/
+data/Thumos14/videos/
+notes.txt
+data/ActivityNet/features/
+data/ActivityNet/videos/
+data/ActivityNet/captions/
+data/ActivityNet/support_videos/
+data/ActivityNet/support_videos_features/
+data/Thumos14/*/
+data/Thumos14/support_videos/
+data/Thumos14/support_videos_features/
+data/Thumos14/captions/
+notes/
